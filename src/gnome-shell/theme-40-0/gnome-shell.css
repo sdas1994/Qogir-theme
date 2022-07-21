@@ -3098,6 +3098,11 @@ StWidget.focused .app-well-app-running-dot {
   icon-size: 96px;
 }
 
+#panel {
+  margin: 2px;
+  border-radius: 9999px;
+}
+
 #dashtodockContainer {
   background: transparent;
 }

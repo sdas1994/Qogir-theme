@@ -5365,7 +5365,7 @@ window.thunar notebook scrolledwindow.frame.standard-view, .nemo-window .nemo-wi
 
 .nautilus-window .floating-bar button {
   border: none;
-  border-radius: 100px;
+  border-radius: 9999px;
   min-height: 0;
   min-width: 0;
   padding: 0;
